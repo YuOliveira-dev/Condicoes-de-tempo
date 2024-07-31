@@ -1,0 +1,1 @@
+Consumindo API de condições de tempo via TYPESCRIPT
