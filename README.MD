@@ -1,7 +1,7 @@
 Weather Conditions Project
 <br>
 <br>
-Este é um projeto simples para exibir condições climáticas usando HTML, CSS, React e TypeScript.
+Este é um projeto simples para exibir condições climáticas usando HTML, CSS, e TypeScript.
 <br>
 <br>
 Como usar
